@@ -2,7 +2,7 @@
 
 ## 安装教程
 
-
+[黑苹果安装教程：Msi Z370 全系列](https://www.wangdu.site/hackintosh/1198.html)
 
 ## EFI文件
 
